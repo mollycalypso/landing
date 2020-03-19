@@ -1,0 +1,23 @@
+.banner .btn-div {
+padding: 16px;
+} 
+
+.btn-certificate {
+  text-decoration: none;
+  background-color: #2A96D7;
+  color: white;
+  padding: 16px 24px;
+  border-radius: 40px; 
+  transition: 0.3s;
+  border: 1px solid #2A96D7;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  text-transform: uppercase;
+  text-align: center;  
+  }
+
+.btn-certificate:hover {
+  background-color: white;
+  font-weight: 500;
+  color: #291B55;
+  transition: 1s;
+}
